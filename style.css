@@ -1,0 +1,18 @@
+
+body{
+    background-color: #4f0d58
+}
+
+#content{
+    background-color: white;
+    height: 400px; width: 700px;
+    margin: 50px;
+    border-radius: 5px;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 0.4fr 1.6fr;
+}
+
+.blocks{
+    
+}
