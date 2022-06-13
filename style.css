@@ -14,5 +14,18 @@ body{
 }
 
 .blocks{
-    
+    margin-left: 30px;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
 }
+ .block{
+     display: grid;
+     grid-template-columns: 1fr;
+     grid-template-rows: 0.3fr 0.7fr;
+ }
+ .block .question{
+     display: grid;
+     grid-template-columns: 0.9fr 0.1fr;
+ }
