@@ -48,7 +48,7 @@ body{
 }
 
 .reponse{
-    max-width: 0;
+    max-height: 0;
     overflow: hidden;
 }
 
