@@ -58,3 +58,6 @@ body{
     font-size: 1.4rem;
 }
 
+.btn.active .reponse{
+    max-width: 300px;
+}
